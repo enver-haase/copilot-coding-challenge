@@ -1,6 +1,8 @@
 # Github Copilot Coding Challenge
 This is a playground project for testing out Github Copilot with Vaadin Flow.
 
+Clone this repo. Create
+
 For more information you can refer to this Google Docs document: https://docs.google.com/document/d/1fgkVuvlDYJ6lN3bvQHjuhZK0hBu5rJHGao_bXMc5ISU/edit
 
 ## Challenges
@@ -11,7 +13,7 @@ For more information you can refer to this Google Docs document: https://docs.go
   - Solve Bubble sort
   - Solve Fibonacci average
   - Sort text in a code file
-  - You can use e.g. sort-me.txt file under resources.sort-this for this
+    - You can use e.g. sort-me.txt file under resources.sort-this for this
 - Data manipulation / code conversion
   - Generate enums from a text file
     - You can use this as the input: resources.challenge-data.categories.categories.txt
