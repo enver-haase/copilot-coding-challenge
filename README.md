@@ -3,6 +3,53 @@ This is a playground project for testing out Github Copilot with Vaadin Flow.
 
 For more information you can refer to this Google Docs document: https://docs.google.com/document/d/1fgkVuvlDYJ6lN3bvQHjuhZK0hBu5rJHGao_bXMc5ISU/edit
 
+## Challenges
+
+- Algorithms
+  - Solve FizzBuzz 30
+    - Write a program that prints the numbers from 1 to 30. But for multiples of three print “Fizz” instead of the number and for the multiples of five print “Buzz”. For numbers which are multiples of both three and five print “FizzBuzz”.
+  - Solve Bubble sort
+  - Solve Fibonacci average
+  - Sort text in a code file
+  - You can use e.g. sort-me.txt file under resources.sort-this for this
+- Data manipulation / code conversion
+  - Generate enums from a text file
+    - You can use this as the input: resources.challenge-data.categories.categories.txt
+    - Do the same with the categories-with-ids.txt file. This time you need to generate IDs as well as integers for the enum.
+    - Do the same with categories-with-ids-and-countries.txt. Now you need to add a country field as well.
+    - Generate unit test that checks that all the enums are correct and correspond to the original text files.
+  - Generate translations for a new language
+    - resources.challenge-data.translation.translate.properties
+  - Migrate a class from Java to another language
+    - This can be any class of your choice. You can do this as many times as you like and from as many languages to another as you wish.
+  - Generate 100 person’s names in a file called test-data.json.
+    - See resources.challenge-data.generate-json-example.test.json for an example
+- Testing
+  - Write unit test cases for a previous algorithm
+  - Write TestBench tests
+  - Write TestBench unit tests
+- Refactoring
+  - Refactor selection into a new method
+  - Modernize Java code (e.g. StringBuffer/Builder -> String block)
+- Optimization
+  - Optimize BogoSort into something better
+    - org.vaadin.challenges.sort.BogoSort
+  - Optimize an algorithm (e.g. bubble sort of Fibonacci average)
+- Explanation
+  - Ask Copilot to explain you a piece of code
+    - Evaluate whether it was correct
+    - If not ask again until you receive a satisfactory answer
+    - Repeat this until you can get an idea if you would like to use this method in the future or not.
+- Documentation
+  - Add JavaDocs to your previously generated methods and classes
+- Bug hunt / linting
+  - The code in the org.vaadin.challenges.bugs package has some simple bugs. Try to find out the bugs and fix them using Copilot.
+- Security Challenge
+  - Evaluate the org.vaadin.challenges.security.InsecureCodeExample for potential security issues 🙃
+- Game development
+  - Implement Game of Life
+  - Implement Tetris
+
 ## Scoring (optional)
 
 In case you are up for it you can fill in the scorecard in the next section. This is purely for fun and to enhance the sense of accomplishment as part of the coding challenge. The main point of the challenge is to learn something new. If you accomplish this you are a winner 🙂
