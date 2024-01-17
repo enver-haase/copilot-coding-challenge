@@ -51,6 +51,7 @@ For more information you can refer to this Google Docs document: https://docs.go
 - Game development
   - Implement Game of Life
   - Implement Tetris
+- < Add your own challenges here to keep going >
 
 ## Scoring (optional)
 
