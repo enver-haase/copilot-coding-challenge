@@ -1,0 +1,50 @@
+Adventure Travel;0
+Sustainable Living;1
+Virtual Reality;2
+Cybersecurity;3
+Gourmet Cooking;4
+Mindfulness Meditation;5
+Urban Gardening;6
+DIY Crafts;7
+Astrophysics;8
+Vintage Fashion;9
+Extreme Sports;10
+Renewable Energy;11
+Graphic Design;12
+Marine Biology;13
+Indie Music;14
+Home Automation;15
+Cultural Anthropology;16
+Mobile Photography;17
+Artificial Intelligence;18
+Slow Fashion;19
+Space Exploration;20
+Ethical Investing;21
+Street Art;22
+Renewable Agriculture;23
+Robotics;24
+World History;25
+Interior Design;26
+Fitness Technology;27
+Sustainable Architecture;28
+Quantum Mechanics;29
+Food Science;30
+Stand-up Comedy;31
+Alternative Medicine;32
+Urban Farming;33
+DIY Electronics;34
+Outdoor Adventure;35
+Political Satire;36
+Behavioral Economics;37
+Retro Gaming;38
+Augmented Reality;39
+Cryptocurrency;40
+Sustainable Transportation;41
+Creative Writing;42
+Ancient History;43
+DIY Home Improvement;44
+Astronomy;45
+Indie Filmmaking;46
+Personal Finance;47
+Vintage Cars;48
+Marine Conservation;49

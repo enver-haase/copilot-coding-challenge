@@ -1,0 +1,50 @@
+Adventure Travel;0;Brazil
+Sustainable Living;1;Japan
+Virtual Reality;2;Australia
+Cybersecurity;3;South Africa
+Gourmet Cooking;4;Canada
+Mindfulness Meditation;5;Italy
+Urban Gardening;6;Mexico
+DIY Crafts;7;Sweden
+Astrophysics;8;India
+Vintage Fashion;9;France
+Extreme Sports;10;Argentina
+Renewable Energy;11;Netherlands
+Graphic Design;12;New Zealand
+Marine Biology;13;Singapore
+Indie Music;14;Ireland
+Home Automation;15;South Korea
+Cultural Anthropology;16;Norway
+Mobile Photography;17;Denmark
+Artificial Intelligence;18;Spain
+Slow Fashion;19;Portugal
+Space Exploration;20;Switzerland
+Ethical Investing;21;Chile
+Street Art;22;Thailand
+Renewable Agriculture;23;Israel
+Robotics;24;Malaysia
+World History;25;Greece
+Interior Design;26;Poland
+Fitness Technology;27;Turkey
+Sustainable Architecture;28;Hungary
+Quantum Mechanics;29;Russia
+Food Science;30;Czech Republic
+Stand-up Comedy;31;Egypt
+Alternative Medicine;32;Peru
+Urban Farming;33;Colombia
+DIY Electronics;34;South Africa
+Outdoor Adventure;35;Austria
+Political Satire;36;Belgium
+Behavioral Economics;37;Philippines
+Retro Gaming;38;Vietnam
+Augmented Reality;39;Finland
+Cryptocurrency;40;Kenya
+Sustainable Transportation;41;Indonesia
+Creative Writing;42;Morocco
+Ancient History;43;Croatia
+DIY Home Improvement;44;United Arab Emirates
+Astronomy;45;Saudi Arabia
+Indie Filmmaking;46;Iceland
+Personal Finance;47;Panama
+Vintage Cars;48;Ukraine
+Marine Conservation;49;Costa Rica
