@@ -1,8 +1,10 @@
 package org.vaadin.example;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.vaadin.game.Life;
 
 import com.vaadin.flow.component.Key;
+import com.vaadin.flow.component.UI;
 import com.vaadin.flow.component.button.Button;
 import com.vaadin.flow.component.button.ButtonVariant;
 import com.vaadin.flow.component.html.Paragraph;
@@ -58,6 +60,9 @@ public class MainView extends VerticalLayout {
         addClassName("centered-content");
 
         add(textField, button);
+
+
+        add(new Button("Game Of Life", e -> UI.getCurrent().navigate(Life.class)));
     }
 
 }
