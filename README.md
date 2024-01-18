@@ -1,8 +1,6 @@
 # Github Copilot Coding Challenge
 This is a playground project for testing out Github Copilot with Vaadin Flow.
 
-Clone this repo. Create
-
 For more information you can refer to this Google Docs document: https://docs.google.com/document/d/1fgkVuvlDYJ6lN3bvQHjuhZK0hBu5rJHGao_bXMc5ISU/edit
 
 ## Challenges
