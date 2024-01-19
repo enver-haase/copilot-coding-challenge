@@ -1,0 +1,4 @@
+/* frontend/styles/styles.css */
+vaadin-text-area::part(input-field) {
+    line-height: 1.0;
+}
